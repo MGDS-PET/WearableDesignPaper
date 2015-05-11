@@ -1,26 +1,25 @@
-Paper B: Collaborative Design Processes and intra-team Communication
+Paper B: Collaborative Design Processes and Wicked Design Problems
 ======================================================================
 
-:slug: paperB
-:url: pages/paperB
-:save_as: pages/paperB.html
+:authors: Michael Cumming, Adam Tindale, Sara Diamond
+:date: 2015-05-05
 
 Abstract
 --------------------------------------------------
 
-Multi-disciplinary design team processes are required to design complex artifacts that span various areas of expertise.  Design team members might have a detailed conception of a sub-section or module on which they're working, but may lack an overall conception of what the whole should be like. For the casual participant it may be difficult to arrive at integrated understandings of what the final design is or should be because of the diversity of the design team and the conceptual 'lenses' they bring to their tasks. This paper discussed aspects of this phenomenon in the context of the design of a wrist-wearable device that interacts with transmedia content.
+Multi-disciplinary design team processes are required to design complex artifacts that span various areas of expertise. Design team members might have a detailed conception of a sub-section or module on which they're working, but may lack an overall conception of what the whole should be like. For the casual participant it may be difficult to arrive at integrated understandings of what the final design is or should be because of the diversity of the design team and the conceptual 'lenses' they bring to their tasks. This paper discussed aspects of this phenomenon in the context of the design of a wrist-wearable device that interacts with transmedia content.
 
 Introduction
 --------------------------------------------------
 
 This paper describes research that involves the design of a wrist-wearable device. 
 
-Several teams were involved in the design of the device, which have specialized expertise in diverse fields such as hardware engineering suitable for wearables, software, material and industrial design, game design, user interaction design, marketing research to determine market positioning for the device. 
+Several teams were involved in the design of the device, whose members have specialized expertise in diverse fields such as hardware engineering suitable for wearables, software to control this hardware, material and industrial design, game design, user interaction design, and marketing research that determines market positioning for the device. 
 
-These fields are quite complex and the people working within them tend to specialize. This means that team members within a sub-group can talk easily amongst themselves in the specialized lexicons and conceptual underpinnings of their specific domains. However, the project involves designing a device in which all its constituent systems work together happily. The 'top-level' domain may be a wrist wearable that interacts with smartphone-available content, yet this domain is not well-established and may be completely new in some aspects. The sub-domains, such as hardware engineering, are much better established than this so-called top-level one. But the overall innovation is the combining of various sub-disciplines into a unified whole. The bottom line is that the constituent parts and sub-systems of the device must work together well. 
+These fields are quite complex and the people working within them tend to specialize. This means that team members within a sub-domain can talk easily amongst themselves in the specialized lexicons and conceptual underpinnings of their specific domains, but may lack expertise in the 'spaces' that exist between these sub-domains. The project involves designing a device in which all its constituent systems work together happily this space, or 'glue' that holds the device together as an integrated conception, is quite important.  
 
 
-
+The 'top-level' domain may be a wrist wearable that interacts with smartphone-available content, yet this domain is not well-established and may be completely new in some aspects. The sub-domains, such as hardware engineering, are much better established than this so-called top-level one. But the overall innovation is the combining of various sub-disciplines into a unified whole. The bottom line is that the constituent parts and sub-systems of the device must work together well. 
 
 
 Design ideation and management though appears to demand some kind of integrated understanding for the successful navigation through a design process. This assumption for the necessity of an integrated understanding or 'meta-narrative' is a centralized notion but does align with conventional ideas of what it means to do design: that it involves an integrated understanding, by some party, of what the design is, or should be.  
