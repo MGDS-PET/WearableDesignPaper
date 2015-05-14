@@ -4,6 +4,7 @@ Paper A: Creating Wearable Technology for Transmedia Experiences
 :authors: Michael Cumming, Adam Tindale, Sara Diamond
 :date: 2015-05-05
 
+
  
 Abstract
 --------------------------------------------------
@@ -27,8 +28,9 @@ Therefore the process of curation that lies behind the app (and which is importa
 
 There are two parts: There is a conceptual narrative that explains something about about the museum collection and about ideas that may be at various levels of abstraction. There is also a physical journey or path through the museum, which requires physical, bodily movement. So there are two types of choreography: conceptual and physical.
 
-Existing Time Tremors game
-..................................................
+
+Background: Existing Time Tremors game
+--------------------------------------------------
 
 Player search for items, or 'treasures.' If they find these items they earn time energy. With sufficient time time energy than can unlock 'time treasures from the future.' Clues are provided to guide you to the treasure. In the game there is also an adversarial component: others are battling against to prevent you from unlocking these treasures.
 
@@ -41,9 +43,40 @@ Physical navigation involves following directions in the application.
 
 The artifacts in the museum are curated, in that there is framing of them that some fall into a specific theme. When players are directed by the application to try to find 'treasures.'  Clues for finding these treasures might include small detail photographs. Players have to scan the space of the museum to find small detailed parts of larger artifacts. This can be somewhat challenging and requires a level of concentration.
 
+Players are also given explicit instruction about where to go. These might say: 'go through the main entrance and by the stairs, turn left' A plan of the building is included in the application to orient the player. These directions are not so clear or unambiguous that the player will instantly find the treasure which she seeks. 
+
+It assumes that in perceiving details of an artwork, if you see the small details that inform paintings and sculptures with high levels of detail and with inherent narrative content (which tend to be pre-modern) then you acquire a greater appreciation of the artwork. This is somewhat reductive. 
+
 Sometimes contextual clues are provided to find the artifact. The objects surrounding an artifact in a showcase will provide a clue leading to the artifact. If the museum rearranges its showcases -- as they sometimes do -- then the application would require revision. 
 
-Players are also given explicit instruction about where to go. These might say: 'go through the main entrance and by the stairs, turn left' A plan of the building is included in the application to orient the player. These directions are not so clear or unambiguous that the player will instantly find the treasure which she seeks. 
+Time Tremors series premises and plot-line
+..................................................
+
+- Time Tremors takes on the viewers (aged 7-12) into an incredible mystery that will defy your imagination
+- Protagonists are Max and Medie (with on-line allies) who find themselves in the middle of a great battle between two opposing forces
+- Max and Medie are the unsuspecting guardians of the Celestial Atlas
+- M&M attend a private school called Ranksome Academy at which supernatural oddities abound
+- Evil lurks within the very being of the biology teacher Ms. Buggly
+- Malevolent demon Ms Buggly generates power from the fear she generates from the nightmares of the children she is teaching
+- The player is to help M&M defeat Ms. Buggly as they travel through time and space in search of time treasures
+- Time treasures are fantastic objects from history, and are the only power capable of defeating Buggly
+- Ms. Buggly abuses her charges using the insidious power of fear
+- Although concealed in time, Time treasures can be collected using web games and with locations-specific mobile apps hosted by an expanding network of museums all over the world
+- Players can also collect time treasures from the Time Tremors series on TV. 
+- Players of these online and mobile games help M&M in their mission
+- Players, along with M&M, have he power to defeat the greatest force of evil in the world [Ms Buggly]
+- Time Tremors is a cross-platform journey through space and time
+
+
+Discussion of Time Tremors plot-lines
+..................................................
+
+- Time Tremors is story about a world split between good and evil. This approach towards morality could be called 'Manichean.'
+- The children's teacher is the greatest force for evil in the world. It is not explained why she is such a force and how she became so. This aligns with many children's perception that some of their teachers are benevolent and some malevolent, and that attending school may actually be a harmful or dangerous experience.
+- The children attend a private school (Ranksome Academy) in which Ms. Buggly is employed. This private school setting provides the children with privileges but perhaps exposes them to greater danger than being in a public school.
+- children are agents for saving the world. This emphasizes the empowerment and value of children and the risks they may face in institutional settings. 
+
+
 
 Focusing attention on a device screen
 ..................................................
@@ -51,6 +84,14 @@ Focusing attention on a device screen
 In order to play the game in a museum the player must concentrate on the application as it guides you in its treasure quest. Players need to focus on the application when they play the game. This tends to take away their attention from the museum space and its collection. However, the application implicit intent is to increase ones engagement with the museum and its collection.
 
 Therefore, it seems like it is working at cross-purposes: one one hand adding meta-data to details and descriptions of artifacts and structuring ones experience in a gamified way might add engagement to museum-going -- especially for young visitors. But focusing on a small screen while navigating through interesting interiors and artifacts seems a little counter-productive.
+
+Treasures in the application vs. treasures in the real world
+..............................................................
+
+Treasures in the application are domain objects. One collects treasures to acquire time energy to unlock more important treasures. Treasures can also be seen as objects that museums tend to collect: the reason they are in the museum is because they are (to some extent) considered treasures. 
+
+The game introduces an applied narrative onto museum artifacts. This narrative might align, or be in conflict, with the narratives the museum curators might have had in mind. This application of multiple narratives is likely not a problem since in a public gallery or museum no one has a monopoly on narratives, and external narratives are not necessarily inferior in quality to the ones produced in-house. 
+
 
 The mediation of museum-going
 ..................................................
@@ -62,8 +103,13 @@ Importance of curation and content
 
 To make narratives that have sufficient quality to be worthwhile in museum settings, then the quality of this quality should be comparable to the curation of the museum itself. This is a difficult thing to achieve unless one has close cooperation with the museum curatorial staff.
 
-Movement
+Positives of the application in museum settings
 ..................................................
+
+Museum going for the tween age group is a challenge. Their attention spans are limited. They have great curiosity but can easily miss telling details about artifacts, or their significance. Guided tours are helpful in this respect but may serve only a small minority of visitors in this age group. Applications that gamify the museum visiting experience for a demographic who are devoted to their screens seems like a promising strategy. 
+
+Background: Movement
+--------------------------------------------------
 
 Walking around a museum is a type of choreography in that you need to navigate through museum spaces (some of which are quite dramatic and architecturally interesting). There is also gestures involved: people have to move their arms, hands and wrists in movements (that they may not engage in normally but which must be learned to play to game). These gestures are registered by the device. Big body movements that all able-bodied people are capable of performing and small body movements, which are not difficult to perform but require some learning and application to a specific game.
 
@@ -73,17 +119,6 @@ Small body movements involve:
 - moving your arm in a abstract direction not necessarily related to your body or its joints, such as an x, y or z direction; these may feel unnatural
 
 Where a movement is 'natural' or 'unnatural' is an important consideration. 
-
-
-Treasures in the application vs. treasures in the real world
-..................................................
-
-Treasures in the application are domain objects. One collects treasures to acquire time energy to unlock more important treasures. Treasures can also be seen as objects that museums tend to collect: the reason they are in the museum is because they are treasures. 
-
-Positives of the application in museum settings
-..................................................
-
-Museum going for the tween age group is a challenge. Their attention spans are limited. They have great curiosity but can easily miss telling details about artifacts, or their significance. Guided tours are helpful in this respect but may serve only a small minority of visitors in this age group. Applications that gamify the museum visiting experience for a demographic who are devoted to their screens seems like a promising strategy. 
 
 
 Movements involved in the application
@@ -115,6 +150,12 @@ Some reasons are:
 - the movements enable the player to express themselves in physical ways
 - the movements connect movements 
 
+Background
+--------------------------------------------------
+
+- designing appropriate gestures for application
+- data creation: from accelerometer sensors
+- gesture recognition sensor data
 
 
 Conclusion
