@@ -4,7 +4,6 @@ Paper A: Creating Wearable Technology for Transmedia Experiences
 :authors: Michael Cumming, Adam Tindale, Sara Diamond
 :date: 2015-05-05
 
-
  
 Abstract
 --------------------------------------------------
@@ -45,37 +44,53 @@ The artifacts in the museum are curated, in that there is framing of them that s
 
 Players are also given explicit instruction about where to go. These might say: 'go through the main entrance and by the stairs, turn left' A plan of the building is included in the application to orient the player. These directions are not so clear or unambiguous that the player will instantly find the treasure which she seeks. 
 
-It assumes that in perceiving details of an artwork, if you see the small details that inform paintings and sculptures with high levels of detail and with inherent narrative content (which tend to be pre-modern) then you acquire a greater appreciation of the artwork. This is somewhat reductive. 
+It assumes that in perceiving details of an artwork, if you see the small details that inform paintings and sculptures with high levels of detail and with inherent narrative content (which tend to be pre-modern) then you acquire a greater appreciation of the artwork. This is a view of museum as a 'cabinet of curiosities.''
 
 Sometimes contextual clues are provided to find the artifact. The objects surrounding an artifact in a showcase will provide a clue leading to the artifact. If the museum rearranges its showcases -- as they sometimes do -- then the application would require revision. 
 
-Time Tremors series premises and plot-line
-..................................................
+Time Tremors series premises and plot-line (from promotional video)
+....................................................................
 
 - Time Tremors takes on the viewers (aged 7-12) into an incredible mystery that will defy your imagination
-- Protagonists are Max and Medie (with on-line allies) who find themselves in the middle of a great battle between two opposing forces
-- Max and Medie are the unsuspecting guardians of the Celestial Atlas
+- Time Tremors is a cross-platform journey through space and time
+- Protagonists Max and Medie, with on-line allies, find themselves in the middle of a great battle between two opposing forces
+- Max and Medie are unsuspecting guardians of the Celestial Atlas
 - M&M attend a private school called Ranksome Academy at which supernatural oddities abound
-- Evil lurks within the very being of the biology teacher Ms. Buggly
-- Malevolent demon Ms Buggly generates power from the fear she generates from the nightmares of the children she is teaching
-- The player is to help M&M defeat Ms. Buggly as they travel through time and space in search of time treasures
-- Time treasures are fantastic objects from history, and are the only power capable of defeating Buggly
-- Ms. Buggly abuses her charges using the insidious power of fear
-- Although concealed in time, Time treasures can be collected using web games and with locations-specific mobile apps hosted by an expanding network of museums all over the world
-- Players can also collect time treasures from the Time Tremors series on TV. 
+- Evil lurks within the very being of the biology teacher Ms. Buggly, who generates power from the fear she generates from the nightmares of the children she is teaching
+- Players help M&M defeat Ms. Buggly as they travel through time and space in search of time treasures, which are fantastic objects from history. These are the only power capable of defeating Buggly
+- Ms. Buggly abuses her charges by instilling fear in them
+- Although concealed in time, Time Treasures can be collected using web games and with locations-specific mobile apps hosted by an expanding network of museums all over the world
+- Players can also collect Time Treasures from the Time Tremors series on TV. 
 - Players of these online and mobile games help M&M in their mission
 - Players, along with M&M, have he power to defeat the greatest force of evil in the world [Ms Buggly]
-- Time Tremors is a cross-platform journey through space and time
 
-
-Discussion of Time Tremors plot-lines
+Process in the Time Tremor game
 ..................................................
 
-- Time Tremors is story about a world split between good and evil. This approach towards morality could be called 'Manichean.'
-- The children's teacher is the greatest force for evil in the world. It is not explained why she is such a force and how she became so. This aligns with many children's perception that some of their teachers are benevolent and some malevolent, and that attending school may actually be a harmful or dangerous experience.
-- The children attend a private school (Ranksome Academy) in which Ms. Buggly is employed. This private school setting provides the children with privileges but perhaps exposes them to greater danger than being in a public school.
-- children are agents for saving the world. This emphasizes the empowerment and value of children and the risks they may face in institutional settings. 
+- Once players amassed enough crystals they trigger a Time Tremor and they earn a Time Treasure and it is transported directly into their collection. 
+- once they gather a new Time Treasure they can place it within the pages of the Celestial Atlas
+- A Celestial Atlas is a magical, mechanical map of time and space, clearly influenced by 'steam punk' aesthetics
+- Earning a Time Treasure unlocks additional content
+- Story content is spread across several chapters (there are currently seven)
+- Additional content includes: photographs, maps, clues, links to fictional in-game websites and other interactive features.
+- This content pushes players deeper into the constructed, fictional world of Time Tremors and heightens its mystery
+- Each Time Treasure has played a critical role in history, Therefore, they teach players about history but also engage them in the game narrative
+- The goal of this transmedia structure is to enable players to search for Time Treasures anytime and anywhere
+- Time Tremors transforms visiting cultural institutions into an exciting journey of discovery for children
+- Augmented reality is used, which enhances the experience of artworks - to learn and explore the many historical treasures on display
+- Main player venues: mobile app users, online gamers and TV viewers
+- TT= An explorable mystery driven by game play
+- TT= an exciting transmedia story about good and evil, and the insidious power of fear
 
+
+Discussion of Time Tremors narrative structure
+..................................................
+
+- Time Tremors is a very elaborate narrative media construct invoking historical artifacts, time travel and child-teacher relations.
+- Time Tremors is story about a world split between good and evil. This approach toward morality could be called 'Manichean.'
+- The children's teacher is the greatest force for evil in the world. It is not explained why she is such a force and how she became so. This aligns with many children's perception that some of their teachers are benevolent and some malevolent, and that attending school may actually be a harmful or dangerous experience for some children.
+- The protagonists attend a private school (Ranksome Academy) in which Ms. Buggly is employed. This private school setting may provide the children with privileges typical of private schools, but perhaps exposes them to greater danger than being in a public school. 
+- Children are agents for saving the world. This emphasizes the empowerment and value of children and the risks they may face in institutional settings. This type of narratives is not unusual in child-focused stories.
 
 
 Focusing attention on a device screen
