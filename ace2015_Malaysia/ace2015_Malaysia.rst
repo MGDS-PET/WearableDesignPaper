@@ -1,11 +1,15 @@
-ace2015_Malaysia: Bodily narratives and transmedia narratives
-======================================================================
+ace2015_Malaysia: Transmedia gameing, wearable devices and activity in children
+=================================================================================
 
 :authors: Michael Cumming, Adam Tindale, Sara Diamond
 :date: 2015-05-25
 
 Abstract
 --------------------------------------------------
+
+
+
+
 
 Wearable devices are useful for recording biometric data. The ebbs, flows, mental and physical capacities of people's bodies inform their lives. When viewed over time, and organized into a useful format, this data can be seen as a type of personal narrative. It is not just a stream of unrelated data; it can be structured to have a 'narrative' arc. 
 
